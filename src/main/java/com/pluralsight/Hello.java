@@ -10,16 +10,15 @@ public class Hello {
 
     //other methods are going to be here
 
-
     //1. make a method called sayHello that prints hello world
     public static void sayHello(){
-        System.out.print("Hello World");
+        System.out.print("Hello World \n");
     }
     public static void sayGoodbye() {
-        System.out.print("Goodbye!");
+        System.out.print("Goodbye!\n");
     }
     public static void sayGoodMorning() {
-        System.out.print("Good Morning");
+        System.out.print("Good Morning\n");
     }
 
 
